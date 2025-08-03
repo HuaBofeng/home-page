@@ -136,13 +136,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/lobechat.png", title: "lobe-chat", subtitle: "AI聊天站点", text: "If you see this line, I've managed to get your attention.", url: "https://ai.lanni.site", show: false },
-		{ go: "🗂️ 前往", img: "/img/splayer.png", title: "音乐", subtitle: "调用网易云音乐", text: "If you see this line, I've managed to get your attention.", url: "https://music.lanni.site", show: false },
-		{ go: "📝 前往", img: "/img/chat.png", title: "线上聊天", subtitle: "线上聊天站", text: "If you see this line, I've managed to get your attention.", url: "https://chat.lanni.site", show: false },
-		{ go: "👍 前往", img: "/img/proxy.png", title: "代理", subtitle: "访问国外", text: "If you see this line, I've managed to get your attention.", url: "https://p.lanni.site", show: false },
-		{ go: "🗃 前往", img: "/img/tupian.png", title: "线上保存图片", subtitle: "线上保存图片", text: "If you see this line, I've managed to get your attention.", url: "https://tupian.lanni.site", show: false },
-		{ go: "🎨 前往", img: "/img/taluo.png", title: "占卜塔罗", subtitle: "占卜一下吧！", text: "If you see this line, I've managed to get your attention.", url: "https://taluo.lanni.site", show: false },
-		{ go: "💍 前往", img: "/img/blog.png", title: "博客", subtitle: "记录日常（写不了一点！）", text: "If you see this line, I've managed to get your attention.", url: "https://blog.lanni.site", show: false },
+		{ go: "🚀 前往", img: "/img/lobechat.png", title: "lobe-chat", subtitle: "AI聊天站点", text: "可以当做一个备用的ai站点并且提供的ai也基本可以满足日常。", url: "https://ai.lanni.site", show: false },
+		{ go: "🗂️ 前往", img: "/img/splayer.png", title: "音乐", subtitle: "调用网易云音乐", text: "可以当做一个网络播放器，只不过网易云的版权比其他厂要少一点点", url: "https://music.lanni.site", show: false },
+	        { go: "💍 前往", img: "/img/tv.png", title: "看电视", subtitle: "可以搜到大部分的电视", text: "这个调用的别的平台，我自己只是把这些集合在一起了，不过也可以用", url: "https://tv.lanni.site", show: false },
+		{ go: "📝 前往", img: "/img/chat.png", title: "线上聊天", subtitle: "线上聊天站", text: "这个就等于你自己搭建了一个聊天室，只要节点和密码一样（随便起），你们就可以在一起聊天，用户名也是随便起", url: "https://chat.lanni.site", show: false },
+		{ go: "👍 前往", img: "/img/proxy.png", title: "代理", subtitle: "访问国外（代理）", text: "比如访问google或者国外版抖音等，这些在我们国内无法访问，用这个进去在输入框输入个网址就可以访问了", url: "https://p.lanni.site", show: false },
+		{ go: "🗃 前往", img: "/img/tupian.png", title: "线上保存图片", subtitle: "线上保存图片", text: "这个不依赖什么平台，只要你把照片上传，就可以网上下载阅览，并且也可以通过这种方式发给好友照片", url: "https://tupian.lanni.site", show: false },
+		{ go: "🎨 前往", img: "/img/taluo.png", title: "占卜塔罗", subtitle: "占卜一下吧！", text: "来占卜一下吧！看看你今天的运气！", url: "https://taluo.lanni.site", show: false },
+		{ go: "💍 前往", img: "/img/blog.png", title: "博客", subtitle: "记录日常（写不了一点！）", text: "这东西写文章要去国外（ip），国内很难访问，所以好久没有更新了", url: "https://blog.lanni.site", show: false },
 	],
 
 	statement: ["备案号：Lanni-ICP备0000000001号", "Copyright © 2025 lanni云科技工作室&lanni（烂泥）信息技术有限公司"],
