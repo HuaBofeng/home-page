@@ -53,7 +53,7 @@ const config = {
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://github.com/HuaBofeng" },
 		{ icon: "mdi-email", link: "mailto:Hua-lanni@outlook.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
+		{ icon: "mdi-qqchat", link: "https://res.abeim.cn/api/qq/?qq=1510185170" },
 		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
 		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
