@@ -136,13 +136,13 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/lobechat.png", title: "lobe-chat", subtitle: "AI聊天站点（详细点开下方箭头）", text: "If you see this line, I've managed to get your attention.", url: "https://ai.lanni.site", show: false },
-		{ go: "🗂️ 前往", img: "/img/splayer.png", title: "music", subtitle: "音乐站调用网易云音乐（详细点开下方箭头）", text: "If you see this line, I've managed to get your attention.", url: "https://music.lanni.site", show: false },
-		{ go: "📝 前往", img: "/img/chat.png", title: "chat", subtitle: "搭建的线上聊天站，叫上好友一起聊天吧！", text: "If you see this line, I've managed to get your attention.", url: "https://chat.lanni.site", show: false },
-		{ go: "👍 前往", img: "/img/proxy.png", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/tupian.png", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🎨 前往", img: "/img/taluo.png", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/blog.png", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 前往", img: "/img/lobechat.png", title: "lobe-chat", subtitle: "AI聊天站点", text: "If you see this line, I've managed to get your attention.", url: "https://ai.lanni.site", show: false },
+		{ go: "🗂️ 前往", img: "/img/splayer.png", title: "music", subtitle: "调用网易云音乐", text: "If you see this line, I've managed to get your attention.", url: "https://music.lanni.site", show: false },
+		{ go: "📝 前往", img: "/img/chat.png", title: "chat", subtitle: "线上聊天站", text: "If you see this line, I've managed to get your attention.", url: "https://chat.lanni.site", show: false },
+		{ go: "👍 前往", img: "/img/proxy.png", title: "Project 4", subtitle: "访问国外", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🗃 前往", img: "/img/tupian.png", title: "Project 5", subtitle: "线上保存图片", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🎨 前往", img: "/img/taluo.png", title: "Project 6", subtitle: "占卜一下吧！", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "💍 前往", img: "/img/blog.png", title: "Project 7", subtitle: "记录日常（写不了一点！）", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
