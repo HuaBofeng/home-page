@@ -137,16 +137,16 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/lobechat.png", title: "lobe-chat", subtitle: "AI聊天站点", text: "If you see this line, I've managed to get your attention.", url: "https://ai.lanni.site", show: false },
-		{ go: "🗂️ 前往", img: "/img/splayer.png", title: "music", subtitle: "调用网易云音乐", text: "If you see this line, I've managed to get your attention.", url: "https://music.lanni.site", show: false },
-		{ go: "📝 前往", img: "/img/chat.png", title: "chat", subtitle: "线上聊天站", text: "If you see this line, I've managed to get your attention.", url: "https://chat.lanni.site", show: false },
-		{ go: "👍 前往", img: "/img/proxy.png", title: "Project 4", subtitle: "访问国外", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/tupian.png", title: "Project 5", subtitle: "线上保存图片", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🎨 前往", img: "/img/taluo.png", title: "Project 6", subtitle: "占卜一下吧！", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/blog.png", title: "Project 7", subtitle: "记录日常（写不了一点！）", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🗂️ 前往", img: "/img/splayer.png", title: "音乐", subtitle: "调用网易云音乐", text: "If you see this line, I've managed to get your attention.", url: "https://music.lanni.site", show: false },
+		{ go: "📝 前往", img: "/img/chat.png", title: "线上聊天", subtitle: "线上聊天站", text: "If you see this line, I've managed to get your attention.", url: "https://chat.lanni.site", show: false },
+		{ go: "👍 前往", img: "/img/proxy.png", title: "代理", subtitle: "访问国外", text: "If you see this line, I've managed to get your attention.", url: "https://p.lanni.site", show: false },
+		{ go: "🗃 前往", img: "/img/tupian.png", title: "线上保存图片", subtitle: "线上保存图片", text: "If you see this line, I've managed to get your attention.", url: "https://tupian.lanni.site", show: false },
+		{ go: "🎨 前往", img: "/img/taluo.png", title: "占卜塔罗", subtitle: "占卜一下吧！", text: "If you see this line, I've managed to get your attention.", url: "https://taluo.lanni.site", show: false },
+		{ go: "💍 前往", img: "/img/blog.png", title: "博客", subtitle: "记录日常（写不了一点！）", text: "If you see this line, I've managed to get your attention.", url: "https://blog.lanni.site", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
-	statement: ["备案号：lanniICP备123456789号", "Copyright © 2025 lanni"],
+	statement: ["备案号：Lanni-ICP备0000000001号", "Copyright © 2025 lanni云科技工作室&lanni（烂泥）信息技术有限公司"],
 }
 
 export default config
