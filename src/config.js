@@ -25,7 +25,7 @@ const config = {
 	// 默认背景壁纸
 	background: {
 		"pc": {   //pc端
-			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
+			"type": "video",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
 				"title": "海洋女孩",
 				"preview": "/img/wallpaper/static/海洋女孩/image-pre.webp",
@@ -146,7 +146,7 @@ const config = {
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
-	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
+	statement: ["备案号：lanniICP备123456789号", "Copyright © 2025 lanni"],
 }
 
 export default config
