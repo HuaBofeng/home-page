@@ -143,7 +143,6 @@ const config = {
 		{ go: "🗃 前往", img: "/img/tupian.png", title: "线上保存图片", subtitle: "线上保存图片", text: "If you see this line, I've managed to get your attention.", url: "https://tupian.lanni.site", show: false },
 		{ go: "🎨 前往", img: "/img/taluo.png", title: "占卜塔罗", subtitle: "占卜一下吧！", text: "If you see this line, I've managed to get your attention.", url: "https://taluo.lanni.site", show: false },
 		{ go: "💍 前往", img: "/img/blog.png", title: "博客", subtitle: "记录日常（写不了一点！）", text: "If you see this line, I've managed to get your attention.", url: "https://blog.lanni.site", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
 	statement: ["备案号：Lanni-ICP备0000000001号", "Copyright © 2025 lanni云科技工作室&lanni（烂泥）信息技术有限公司"],
